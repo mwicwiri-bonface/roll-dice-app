@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">roll dice</string>
+    <string name="text_hello">Hello Android!</string>
+</resources>
